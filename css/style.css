@@ -1,0 +1,18 @@
+* { 
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Monserat', 'Open Sans', sans-serif;
+}
+
+nav:before,
+nav:after {
+    content: " ";  
+    display: table; 
+    clear: both;
+}
+
+.container {
+  padding: 20px 0;
+}

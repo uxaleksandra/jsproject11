@@ -1,0 +1,1 @@
+﻿8.12. Wspólnie napiszmy grę w JavaScripcie
